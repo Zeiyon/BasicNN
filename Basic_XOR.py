@@ -29,4 +29,5 @@ for epoch in range(epochs):
     output_predicted = h1 * W31 + h2 * W32 + b3
 
     #backpropagation
+
     
